@@ -1,0 +1,230 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Lora', Arial, Helvetica, sans-serif;
+}
+
+ul {
+  padding: .5em 2em
+}
+
+h1,
+h2,
+h3,
+h4 {
+  padding: .5em 0 .2em 0;
+}
+
+p {
+  padding: .2em 0;
+}
+
+.nav {
+  label {
+    font-size: 60%;
+    font-weight: bold;
+  }
+}
+
+.highlight {
+  background: yellow;
+  // font-size: 2em;
+}
+
+.institution {
+  margin-left: 0 !important;
+}
+
+.maintitle {
+  margin-left: 0 !important;
+}
+
+.table {
+  max-width: 100%;
+  overflow-x: auto;
+}
+
+.lds-spinner {
+  color: official;
+  display: inline-block;
+  position: relative;
+  width: 80px;
+  height: 80px;
+}
+
+.lds-spinner div {
+  transform-origin: 40px 40px;
+  animation: lds-spinner 1.2s linear infinite;
+}
+
+.lds-spinner div:after {
+  content: " ";
+  display: block;
+  position: absolute;
+  top: 3px;
+  left: 37px;
+  width: 6px;
+  height: 18px;
+  border-radius: 20%;
+  background: #999;
+}
+
+.lds-spinner div:nth-child(1) {
+  transform: rotate(0deg);
+  animation-delay: -1.1s;
+}
+
+.lds-spinner div:nth-child(2) {
+  transform: rotate(30deg);
+  animation-delay: -1s;
+}
+
+.lds-spinner div:nth-child(3) {
+  transform: rotate(60deg);
+  animation-delay: -0.9s;
+}
+
+.lds-spinner div:nth-child(4) {
+  transform: rotate(90deg);
+  animation-delay: -0.8s;
+}
+
+.lds-spinner div:nth-child(5) {
+  transform: rotate(120deg);
+  animation-delay: -0.7s;
+}
+
+.lds-spinner div:nth-child(6) {
+  transform: rotate(150deg);
+  animation-delay: -0.6s;
+}
+
+.lds-spinner div:nth-child(7) {
+  transform: rotate(180deg);
+  animation-delay: -0.5s;
+}
+
+.lds-spinner div:nth-child(8) {
+  transform: rotate(210deg);
+  animation-delay: -0.4s;
+}
+
+.lds-spinner div:nth-child(9) {
+  transform: rotate(240deg);
+  animation-delay: -0.3s;
+}
+
+.lds-spinner div:nth-child(10) {
+  transform: rotate(270deg);
+  animation-delay: -0.2s;
+}
+
+.lds-spinner div:nth-child(11) {
+  transform: rotate(300deg);
+  animation-delay: -0.1s;
+}
+
+.lds-spinner div:nth-child(12) {
+  transform: rotate(330deg);
+  animation-delay: 0s;
+}
+
+@keyframes lds-spinner {
+  0% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+  }
+}
+
+
+
+.image {
+  padding-top: 2em;
+}
+
+.image::after {
+  display: block;
+  float: right;
+  cursor: pointer;
+  color: #000;
+  padding: .4em .6em;
+  border-radius: 4px;
+  font-size: .8rem;
+  width: 18px;
+  height: 20px;
+  content: "";
+  background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzODQgNTEyIiBmaWxsPSIjZmZmIj48IS0tISBGb250IEF3ZXNvbWUgUHJvIDYuMS4yIGJ5IEBmb250YXdlc29tZSAtIGh0dHBzOi8vZm9udGF3ZXNvbWUuY29tIExpY2Vuc2UgLSBodHRwczovL2ZvbnRhd2Vzb21lLmNvbS9saWNlbnNlIChDb21tZXJjaWFsIExpY2Vuc2UpIENvcHlyaWdodCAyMDIyIEZvbnRpY29ucywgSW5jLiAtLT48cGF0aCBkPSJNMjI0IDEyOEwyMjQgMEg0OEMyMS40OSAwIDAgMjEuNDkgMCA0OHY0MTZDMCA0OTAuNSAyMS40OSA1MTIgNDggNTEyaDI4OGMyNi41MSAwIDQ4LTIxLjQ5IDQ4LTQ4VjE2MGgtMTI3LjFDMjM4LjMgMTYwIDIyNCAxNDUuNyAyMjQgMTI4ek05NiAyMjRjMTcuNjcgMCAzMiAxNC4zMyAzMiAzMlMxMTMuNyAyODggOTYgMjg4UzY0IDI3My43IDY0IDI1NlM3OC4zMyAyMjQgOTYgMjI0ek0zMTguMSA0MzkuNUMzMTUuMyA0NDQuOCAzMDkuOSA0NDggMzA0IDQ0OGgtMjI0Yy01LjkgMC0xMS4zMi0zLjI0OC0xNC4xMS04LjQ1MWMtMi43ODMtNS4yMDEtMi40NzktMTEuNTIgLjc5NDktMTYuNDJsNTMuMzMtODBDMTIyLjEgMzM4LjcgMTI3LjEgMzM2IDEzMy4zIDMzNnMxMC4zNSAyLjY3NCAxMy4zMSA3LjEyNUwxNjAgMzYzLjJsNDUuMzUtNjguMDNDMjA4LjMgMjkwLjcgMjEzLjMgMjg4IDIxOC43IDI4OHMxMC4zNSAyLjY3NCAxMy4zMSA3LjEyNWw4NS4zMyAxMjhDMzIwLjYgNDI4IDMyMC45IDQzNC4zIDMxOC4xIDQzOS41ek0yNTYgMHYxMjhoMTI4TDI1NiAweiIvPjwvc3ZnPg==");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #00b5d6;
+  background-size: 18px 18px;
+}
+
+.image.active::after {
+  cursor: not-allowed;
+  background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48IS0tISBGb250IEF3ZXNvbWUgUHJvIDYuMS4yIGJ5IEBmb250YXdlc29tZSAtIGh0dHBzOi8vZm9udGF3ZXNvbWUuY29tIExpY2Vuc2UgLSBodHRwczovL2ZvbnRhd2Vzb21lLmNvbS9saWNlbnNlIChDb21tZXJjaWFsIExpY2Vuc2UpIENvcHlyaWdodCAyMDIyIEZvbnRpY29ucywgSW5jLiAtLT48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMjI0IDI1NkMyMjQgMjM4LjMgMjM4LjMgMjI0IDI1NiAyMjRDMjczLjcgMjI0IDI4OCAyMzguMyAyODggMjU2QzI4OCAyNzMuNyAyNzMuNyAyODggMjU2IDI4OEMyMzguMyAyODggMjI0IDI3My43IDIyNCAyNTZ6TTI1NiAwQzI3My43IDAgMjg4IDE0LjMzIDI4OCAzMlY0Mi4zNUMzODEuNyA1Ni4yNyA0NTUuNyAxMzAuMyA0NjkuNiAyMjRINDgwQzQ5Ny43IDIyNCA1MTIgMjM4LjMgNTEyIDI1NkM1MTIgMjczLjcgNDk3LjcgMjg4IDQ4MCAyODhINDY5LjZDNDU1LjcgMzgxLjcgMzgxLjcgNDU1LjcgMjg4IDQ2OS42VjQ4MEMyODggNDk3LjcgMjczLjcgNTEyIDI1NiA1MTJDMjM4LjMgNTEyIDIyNCA0OTcuNyAyMjQgNDgwVjQ2OS42QzEzMC4zIDQ1NS43IDU2LjI3IDM4MS43IDQyLjM1IDI4OEgzMkMxNC4zMyAyODggMCAyNzMuNyAwIDI1NkMwIDIzOC4zIDE0LjMzIDIyNCAzMiAyMjRINDIuMzVDNTYuMjcgMTMwLjMgMTMwLjMgNTYuMjcgMjI0IDQyLjM1VjMyQzIyNCAxNC4zMyAyMzguMyAwIDI1NiAwVjB6TTIyNCA0MDQuNlYzODRDMjI0IDM2Ni4zIDIzOC4zIDM1MiAyNTYgMzUyQzI3My43IDM1MiAyODggMzY2LjMgMjg4IDM4NFY0MDQuNkMzNDYuMyAzOTIuMSAzOTIuMSAzNDYuMyA0MDQuNiAyODhIMzg0QzM2Ni4zIDI4OCAzNTIgMjczLjcgMzUyIDI1NkMzNTIgMjM4LjMgMzY2LjMgMjI0IDM4NCAyMjRINDA0LjZDMzkyLjEgMTY1LjcgMzQ2LjMgMTE5LjkgMjg4IDEwNy40VjEyOEMyODggMTQ1LjcgMjczLjcgMTYwIDI1NiAxNjBDMjM4LjMgMTYwIDIyNCAxNDUuNyAyMjQgMTI4VjEwNy40QzE2NS43IDExOS45IDExOS45IDE2NS43IDEwNy40IDIyNEgxMjhDMTQ1LjcgMjI0IDE2MCAyMzguMyAxNjAgMjU2QzE2MCAyNzMuNyAxNDUuNyAyODggMTI4IDI4OEgxMDcuNEMxMTkuOSAzNDYuMyAxNjUuNyAzOTIuMSAyMjQgNDA0LjZ6Ii8+PC9zdmc+");
+  background-color: #aaa;
+}
+
+.pagebreak {
+  padding: 0;
+  margin: 0;
+  // border-top: 1px dashed #ccc;
+  width: 100%;
+}
+
+.letter {
+  padding: 2em 0 6em 0;
+}
+
+
+.jsonBrowseUl {
+
+  padding: 0;
+  margin: 0;
+
+  li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: .5em 1.2em;
+
+    &:hover {
+      background: #efefef;
+    }
+  }
+}
+
+
+.noteFloatingContent {
+  position: absolute;
+  background: beige;
+  border-radius: 10px;
+  width: 100%;
+  padding: 1em 1.5em;
+  box-shadow: 0 0 12px #ccc;
+  z-index: 10;
+  top: 23px;
+}
+
+
+
+.diva-fullscreen {
+  margin-top: 70px !important;
+
+  &-tools {
+    top: 65px !important;
+  }
+}

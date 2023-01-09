@@ -1,0 +1,59 @@
+{
+  "name": "kapellmeisterbuch",
+  "version": "0.0.1",
+  "description": "RISM Kapellmeisterbuch application",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp build",
+    "start": "gulp webpack-dev-server",
+    "deploy": "gulp deploy",
+    "deploy:dataset": "gulp deploy-dataset",
+    "deploy:frontend": "gulp deploy-frontend",
+    "deploy:backend": "gulp deploy-backend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rism-digital/kapellmeisterbuch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.18.13",
+    "@babel/preset-env": "^7.18.10",
+    "@babel/preset-react": "^7.18.6",
+    "assert": "^2.0.0",
+    "babel-eslint": "^10.1.0",
+    "babel-loader": "^8.2.5",
+    "css-loader": "^6.7.1",
+    "del": "^6.1.1",
+    "eslint": "^8.22.0",
+    "eslint-plugin-react": "7.30.1",
+    "file-loader": "^6.2.0",
+    "fs": "0.0.1-security",
+    "gulp": "4.0.2",
+    "gulp-sftp": "git+https://git@github.com/webksde/gulp-sftp.git",
+    "gulp-ssh": "0.7.0",
+    "gulp-util": "3.0.8",
+    "html-loader": "^4.1.0",
+    "html-webpack-plugin": "^5.5.0",
+    "node-sass": "^7.0.1",
+    "path": "0.12.7",
+    "raw-loader": "^4.0.2",
+    "sass-loader": "^13.0.2",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0",
+    "webpack-dev-server": "^4.10.0",
+    "yargs": "^17.5.1"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "diva.js": "^6.0.2",
+    "lodash.maxby": "^4.6.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-markdown": "^8.0.3",
+    "react-router-dom": "^6.3.0",
+    "rehype-raw": "^6.1.1"
+  }
+}

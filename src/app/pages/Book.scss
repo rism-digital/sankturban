@@ -1,0 +1,98 @@
+.book {
+    &-main {
+        display: flex;
+        width: 100%;
+        max-width: calc(100% - 75px);
+        position: fixed;
+        height: calc(100vh - 73px);
+        margin: -45px 0 -2em -3em;
+
+        &-left {
+            width: calc(100% - 22px);
+            height: 100%;
+            overflow-y: auto;
+            border-right: 2px solid #e3e3e3;
+            transition: width 1s ease-in-out;
+
+            &__diva-visible {
+                width: calc(60% - 22px);
+            }
+
+            &__mobile {
+                width: calc(100% - 22px);
+            }
+        }
+
+        &-right {
+            padding: 1em;
+            margin-right: -100%;
+            width: 40%;
+
+            &__mobile {
+                right: -100%;
+                width: calc(100% - 75px);
+                margin-right: 0;
+                position: fixed;
+                transition: right 1s ease-in-out;
+                z-index: 1;
+                background: #fff;
+            }
+
+            &__diva-visible {
+                right: 0;
+            }
+        }
+
+        #scroller {
+            height: calc(100% - 70px);
+            overflow-y: auto;
+            padding-right: 2em;
+            transition: width 1s ease-in-out 0s;
+
+            &-content {
+                max-width: 770px;
+                margin: auto;
+            }
+        }
+
+        #divaButton {
+            position: fixed;
+            bottom: 26px;
+            right: 1em;
+            z-index: 1;
+        }
+    }
+}
+
+.nav {
+    &-main {
+        border-top: 2px solid #e3e3e3;
+        position: absolute;
+        bottom: 0;
+        height: 70px;
+        padding: 10px 70px 10px 0;
+        width: 100%;
+        background: #fff;
+    }
+
+    &-inner {
+        width: 550px;
+
+        &-left {
+            margin-top: -6px;
+        }
+
+        label {
+            font-size: .6rem;
+            font-weight: bold;
+            margin-left: 2px;
+        }
+    }
+
+    &-spacer {
+        height: 50px;
+        width: 1px;
+        border-left: 1px solid #e6e6e6;
+        margin-left: 1.5em;
+    }
+}

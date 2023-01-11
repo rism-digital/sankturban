@@ -25,7 +25,9 @@
                 "items": {
                     "home": "Hauptseite",
                     "about": "Über uns",
+                    "project": "Über das Projekt",
                     "bibliography": "Bibliographie",
+                    "biography": "Biographie",
                     "fundsLosanne": "Sammlung Lausanne",
                     "fundsGeneve": "Sammlung Genf",
                     "collectionsBasel": "Sammlung Basel",

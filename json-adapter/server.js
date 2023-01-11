@@ -26,18 +26,23 @@ app.get('/api/browse', (req, res) => {
     const index = req.query.index;
     const params = req.query.params && JSON.parse(req.query.params);
 
-    console.log(Object.keys(data));
-
     if (devMode) {
         console.log('[REQUEST_PAYLOAD]');
         console.log(req.query);
     }
 
     const response = Object.keys(data[index]).map(key => {
-        console.log(key, data[index][key]);
+
+        // check for bio_anchor value
+        const anchor = data[index][key].filter(e => e.bio_anchor)
+
+        // fetching groups without bio anchor
+        const group = data[index][key].filter(e => !e.bio_anchor)
+
         return ({
             name: key,
-            group: data[index][key]
+            group,
+            ...anchor.length > 0 && { bio_anchor: anchor[0].bio_anchor }  
         });
     });
 

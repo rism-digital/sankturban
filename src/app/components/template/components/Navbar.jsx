@@ -26,7 +26,9 @@ export const Navbar = () => {
             <div className="navbar-menu">
                 <Link to="/">{t('common.topMenu.pages.items.home')}</Link>
                 <Link to="/page/about">{t('common.topMenu.pages.items.about')}</Link>
+                <Link to="/page/project">{t('common.topMenu.pages.items.project')}</Link>
                 <Link to="/page/bibliography">{t('common.topMenu.pages.items.bibliography')}</Link>
+                <Link to="/page/biography">{t('common.topMenu.pages.items.biography')}</Link>
                 {/*// <Link to="/page/lausanne">{t('common.topMenu.pages.items.fundsLosanne')}</Link>,
                 // <Link to="/page/geneve">{t('common.topMenu.pages.items.fundsGeneve')}</Link>,
                 // <Link to="/page/basel">{t('common.topMenu.pages.items.collectionsBasel')}</Link>, 

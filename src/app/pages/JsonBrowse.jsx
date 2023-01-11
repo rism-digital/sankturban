@@ -91,6 +91,16 @@ const JsonBrowse = () => {
                             header={(<h3 className="collapsible-header-caption"
                                 style={{ borderBottom: '1px solid #e8e8e8', display: 'block', width: '100%', paddingBottom: '.5em' }}>
                                 {e.name}
+                                <small style={{float: 'right', fontStyle: 'normal'}}>
+                                    { 
+                                        e.bio_anchor && (
+                                            <Link to={{
+                                                pathname: '/page/biography',
+                                                hash: e.bio_anchor
+                                            }}>bio</Link>
+                                        ) 
+                                    }
+                                </small>
                             </h3>)}>
                             <ul className="jsonBrowseUl">
                                 {e.group && Array.isArray(e.group) && e.group.map((linked, key) => (

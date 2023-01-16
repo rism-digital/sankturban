@@ -7,7 +7,7 @@ Die Identifizierung der Briefe mit musikalischem Inhalt erfolgte über das dazug
 Bei der Transkription wurden Abkürzungen ausgeschrieben, mit Ausnahme von dominus/dominatio (D.), frater (F., Fr.), Herr (H.), sacer/sanctus (S.), pater/paternitas (P.), reverendus/reverentia (R.) und voster (V.), und mit Kursivschrift kennzeichnet. Grossschreibung und Orthografie wurden beibehalten, inklusive der diakritischen Zeichen (decisâ). Spitze Klammern ⟨…⟩ bezeichnen nachträgliche Einfügungen. Ergänzungen der Herausgeber stehen in eckigen Klammern.<br/>
 Alle Komponisten und weitere Personen, deren Namen genannt werden oder recherchiert werden konnten, sind im Register aufgeführt. Darüber hinaus wurden Register für Musikwerke und Ortsnamen erstellt. <br/>
 ### For English speakers  
-An extensive historical commentary, with a summary of all letters and short biographies of senders and receivers, will be available in English (see [Collarile 2022](/page/bibliography).  
+An extensive historical commentary, with a summary of all letters and short biographies of senders and receivers, will be available in English (see [Collarile 2022](/page/bibliography)).  
 ### Danksagungen  
 Besonderen Dank gebührt Frau Dinah Knuchel, Archivarin im Staatsarchiv des Kantons Luzern, für die wertvolle Hilfe bei der Reproduktion der Quellen, und dem Staatsarchiv für die freundlich erteilte Reproduktionsgenehmigung. Vielen Dank auch an Lynn Beutler (RISM Digital Center) für den sprachlichen Lektorat.<br/>
 <br/>

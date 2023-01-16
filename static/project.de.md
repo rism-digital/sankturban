@@ -1,4 +1,4 @@
-# Über uns     
+# Einleitung     
 ### Die Quellen
 Die Quellen für die vorliegende Edition werden im Staatsarchiv des Kantons Luzern, Klosterarchiv St. Urban, aufbewahrt. Die Sammlung trägt den Titel „Litterae Variae“: Es handelt sich um die Korrespondenz des Klosters mit anderen kirchlichen und weltlichen Institutionen, sowie Einzelpersonen aus der Schweiz, Süddeutschland und Frankreich (Signatur: KU 512).  
 Die Sammlung der Korrespondenz des Klosters, die in das 16. Jahrhundert zurückreicht, wurde 1745 grob chronologisch geordnet und in 24 Bänden gebunden (Signatur: KU 512 A-Y). Die beschriebenen Blätter wurden, vermutlich zur Zeit der Bindung, mit einer Nummer versehen. Weder die weissen Blätter noch die Briefumschläge tragen eine Seitenzahl, mit seltenen Ausnahmen. In der vorliegenden Ausgabe stehen die Brieftexte in der rekonstruierten chronologischen Reihenfolge, die Abbildungen hingegen wurden in der Reihenfolge der Fundorte in den Korrespondenzbänden belassen.  
@@ -8,11 +8,6 @@ Bei der Transkription wurden Abkürzungen ausgeschrieben, mit Ausnahme von domin
 Alle Komponisten und weitere Personen, deren Namen genannt werden oder recherchiert werden konnten, sind im Register aufgeführt. Darüber hinaus wurden Register für Musikwerke und Ortsnamen erstellt. <br/>
 ### For English speakers
 An extensive historical commentary, with a summary of all letters and short biographies of senders and receivers, will be available in English (see [Collarile 2022](/page/bibliography#bibliographie)).
-### Verantwortliche
-Claudio Bacciagaluppi (RISM Digital Center) und Luigi Collarile (Hochschule der Künste Bern), Redaktion<br/>
-Rodolfo Zitellini (RISM Digital Center) und Alberto Tiboni (Taskomat), Programmierung und Gestaltung der Webseite<br/>
 ### Danksagungen
 Besonderen Dank gebührt Frau Dinah Knuchel, Archivarin im Staatsarchiv des Kantons Luzern, für die wertvolle Hilfe bei der Reproduktion der Quellen, und dem Staatsarchiv für die freundlich erteilte Reproduktionsgenehmigung. Vielen Dank auch an Lynn Beutler (RISM Digital Center) für den sprachlichen Lektorat.<br/>
-### Kontakt
-Die Herausgeber sind für jeden Verbesserungsvorschlag dankbar und beantworten Ihre Fragen gerne. Benutzen Sie dafür folgende Adresse: [d-lib\@rism-ch.org](mailto:d-lib@rism-ch.org).<br/>
 <br/>

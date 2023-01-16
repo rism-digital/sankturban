@@ -1,18 +1,26 @@
-# Über uns     
-### Die Quellen
-Die Quellen für die vorliegende Edition werden im Staatsarchiv des Kantons Luzern, Klosterarchiv St. Urban, aufbewahrt. Die Sammlung trägt den Titel „Litterae Variae“: Es handelt sich um die Korrespondenz des Klosters mit anderen kirchlichen und weltlichen Institutionen, sowie Einzelpersonen aus der Schweiz, Süddeutschland und Frankreich (Signatur: KU 512).  
-Die Sammlung der Korrespondenz des Klosters, die in das 16. Jahrhundert zurückreicht, wurde 1745 grob chronologisch geordnet und in 24 Bänden gebunden (Signatur: KU 512 A-Y). Die beschriebenen Blätter wurden, vermutlich zur Zeit der Bindung, mit einer Nummer versehen. Weder die weissen Blätter noch die Briefumschläge tragen eine Seitenzahl, mit seltenen Ausnahmen. In der vorliegenden Ausgabe stehen die Brieftexte in der rekonstruierten chronologischen Reihenfolge, die Abbildungen hingegen wurden in der Reihenfolge der Fundorte in den Korrespondenzbänden belassen.  
-### Zur Edition
-Die Identifizierung der Briefe mit musikalischem Inhalt erfolgte über das dazugehörige Registerband (Signatur: REP 52/18). Darin ist Band 3 (Signatur: KU 512 C) nicht verzeichnet: Dieser enthält Briefe aus der Zeit von 1567 bis 1684. Viele davon an Abt Ulrich Amstein (1588-1627) und Abt Beat Göldlin (1627-1640), die meisten aber an Abt Edmund Schnyder (1640-1677), mitsamt seinen gelegentlichen Entwürfen für ein Antwortschreiben, adressiert. Umgekehrt verzeichnet das Register einige Briefe unter dem Stichwort Musik, die sich als ohne musikalischen Inhalt erwiesen haben (Signaturen: K 351-352, F 295-308, V 602-604, O 108+109). Das Register könnte allerdings auch auf Briefe verweisen, die heute eine andere Paginierung aufweisen. Die Herausgeber konnten jedoch selbst bei einer, zu diesem Zweck erfolgten, Kontrolle die gemeinten Briefe nicht identifizieren.  
-Bei der Transkription wurden Abkürzungen ausgeschrieben, mit Ausnahme von dominus/dominatio (D.), frater (F., Fr.), Herr (H.), sacer/sanctus (S.), pater/paternitas (P.), reverendus/reverentia (R.) und voster (V.), und mit Kursivschrift kennzeichnet. Grossschreibung und Orthografie wurden beibehalten, inklusive der diakritischen Zeichen (decisâ). Spitze Klammern ⟨…⟩ bezeichnen nachträgliche Einfügungen. Ergänzungen der Herausgeber stehen in eckigen Klammern.<br/>
-Alle Komponisten und weitere Personen, deren Namen genannt werden oder recherchiert werden konnten, sind im Register aufgeführt. Darüber hinaus wurden Register für Musikwerke und Ortsnamen erstellt. <br/>
-### For English speakers
-An extensive historical commentary, with a summary of all letters and short biographies of senders and receivers, will be available in English (see [Collarile 2022](/page/bibliography#bibliographie)).
-### Verantwortliche
-Claudio Bacciagaluppi (RISM Digital Center) und Luigi Collarile (Hochschule der Künste Bern), Redaktion<br/>
-Rodolfo Zitellini (RISM Digital Center) und Alberto Tiboni (Taskomat), Programmierung und Gestaltung der Webseite<br/>
-### Danksagungen
-Besonderen Dank gebührt Frau Dinah Knuchel, Archivarin im Staatsarchiv des Kantons Luzern, für die wertvolle Hilfe bei der Reproduktion der Quellen, und dem Staatsarchiv für die freundlich erteilte Reproduktionsgenehmigung. Vielen Dank auch an Lynn Beutler (RISM Digital Center) für den sprachlichen Lektorat.<br/>
-### Kontakt
-Die Herausgeber sind für jeden Verbesserungsvorschlag dankbar und beantworten Ihre Fragen gerne. Benutzen Sie dafür folgende Adresse: [d-lib\@rism-ch.org](mailto:d-lib@rism-ch.org).<br/>
+# Über das Projekt
 <br/>
+<br/>
+##Luigi Collarile, Claudio Bacciagaluppi (Hrsg.)<br/>Briefe über Musik aus dem Kloster St. Urban (Luzern)<br/>
+<br/>
+RISM Digital Library 2023
+<br/>
+<br/>
+<div>
+	<table border="0" cellspacing="35px" style="margin: 0 auto;text-align:center"><tbody><tr><td align="center">
+			<a href="http://www.rism-ch.org" target="_blank"><img src="//raw.githubusercontent.com/tibonilab/inventari-di-napoli/main/static/logo-RISM-large-ch.png" width="80px" border="0"></a>
+		</td><td align="center">
+			<a href="http://www.snf.ch/it" target="_blank"><img src="//raw.githubusercontent.com/tibonilab/inventari-di-napoli/main/static/SNF_RGB_I_POS.png" width="200px" border="0"></a>
+		</td></tr></tbody></table>
+</div>
+<br/>
+Das Werk erscheint unter der Lizenz [CC BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.it).<br/> 
+Die Edition erscheint in der Reihe [d-lib](https://rism.digital/publications/d-lib.html) (RISM Digital Library), ISSN 2297-573X.<br/> 
+Technische Realisierung von Alberto Tiboni und Rodolfo Zitellini.<br/> 
+DOI: [10.5448/rism-d-lib-022](https://dx.doi.org/10.5448/rism-d-lib-022).<br/>
+<br/>
+Für Kommentare und Fragen benutzen Sie bitte die folgende Adresse: [d-lib\@rism-ch.org](mailto:d-lib@rism-ch.org).<br/>
+<br/>
+Die Erforschung der Briefe fand 2008-2010 im Rahmen des Projekts "Musik aus Schweizer Klöstern" der Universität Freiburg unter der Leitung von Prof. Luca Zoppelli statt (SNF Nr. 122191).<br/>
+<br/>
+

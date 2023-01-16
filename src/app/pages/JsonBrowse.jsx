@@ -97,7 +97,7 @@ const JsonBrowse = () => {
                                             <Link to={{
                                                 pathname: '/page/biography',
                                                 hash: e.bio_anchor
-                                            }}>bio</Link>
+                                            }}>Biographie</Link>
                                         ) 
                                     }
                                 </small>

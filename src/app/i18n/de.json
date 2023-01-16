@@ -24,10 +24,10 @@
                 "label": "Seiten",
                 "items": {
                     "home": "Hauptseite",
-                    "about": "Über uns",
+                    "about": "Einleitung",
                     "project": "Über das Projekt",
                     "bibliography": "Bibliographie",
-                    "biography": "Biographie",
+                    "biography": "Biographien",
                     "fundsLosanne": "Sammlung Lausanne",
                     "fundsGeneve": "Sammlung Genf",
                     "collectionsBasel": "Sammlung Basel",

@@ -10,8 +10,8 @@ Claudio Bacciagaluppi - Luigi Collarile - Annaïck Bouquin, The St Urban Invento
 Biographia Cisterciensis, Version vom 20.8.2011, online: [http://www.zisterzienserlexikon.de](http://www.zisterzienserlexikon.de).
 - Chèvre 1973<br/>
 André Chèvre, Lucelle: histoire d’une ancienne abbaye cistercienne. Delémont: Boéchat, 1973 (Bibliothèque jurassienne, 8).
-- Collarile 2022<br/>
-Luigi Collarile, in Schweizer Jahrbuch zur Musikwissenschaft, Band 39 (2022), in Vorbereitung. 
+- Collarile – Bacciagaluppi 2022<br/>
+Luigi Collarile - Claudio Bacciagaluppi, in Schweizer Jahrbuch zur Musikwissenschaft, Band 39 (2022), in Vorbereitung. 
 - Duft 1977<br/>
 Johannes Duft, Schweizer Klosterbibliotheken im 17. und 18. Jahrhundert, in Wolfenbütteler Forschungen 2 (1977), 119-141.
 - Gigandet 1986<br/>

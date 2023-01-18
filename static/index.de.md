@@ -1,4 +1,4 @@
 # Briefe über Musik aus dem Kloster St. Urban (Luzern)  <br/>
-Herausgegeben von Luigi Collarile und Claudio Bacciagaluppi<br/><br/>
+Herausgegeben von Claudio Bacciagaluppi und Luigi Collarile<br/><br/>
 RISM Digital Library 2023<br/><br/>
 In den Archivbeständen des ehemaligen Zisterzienserkloster St. Urban, die heute im Staatsarchiv Luzern aufbewahrt werden, befinden sich 24 Bände mit Tausenden von Briefen vom Klosters von der Mitte des 16. bis zur Mitte des 18. Jahrhunderts. Die Auswahl der hier rund 60 veröffentlichten Briefe wurde aufgrund ihrer Relevanz für die Geschichte der Musik dieses Klosters getroffen. Diese Quellen, zusammen mit dem 2010 veröffentlichten Musikinventar aus dem Jahre 1661 (vgl. [HMI](http://inventories.rism-ch.org/libraries/51006823)), geben einen lebhaften und einzigartigen Einblick in die musikalische Praxis eines Innerschweizer Klosters zur Barockzeit. Wichtig anzumerken ist, dass die Adressaten und Empfänger der Briefe fast ausschliesslich Äbte und Pröpste sind: Musik steht somit weit oben auf der Tagesordnung der höchsten Amtsträger im Kloster.<br/>

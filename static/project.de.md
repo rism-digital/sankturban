@@ -2,7 +2,7 @@
 <br/>
 <br/>
 
-### Luigi Collarile, Claudio Bacciagaluppi (Hrsg.) <br/> Briefe über Musik aus dem Kloster St. Urban (Luzern) <br/>
+### Claudio Bacciagaluppi – Luigi Collarile (Hrsg.) <br/> Briefe über Musik aus dem Kloster St. Urban (Luzern) <br/>
 
 <br/>
 RISM Digital Library 2023

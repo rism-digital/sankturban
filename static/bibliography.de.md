@@ -5,8 +5,6 @@ Alberich Martin Altermatt et al., Sankt Urban 1194-1994: ein ehemaliges Zisterzi
 - Bacciagaluppi - Collarile 2013<br/>
 Claudio Bacciagaluppi - Luigi Collarile, ‘Tutte le opere del Girolamo Frescovaldi’. 1647: Roma - Lucerna, solo andata, in: A fresco. Mélanges offerts au Professeur Etienne Darbellay, hrsg. von Brenno Boccadoro und Georges Starobinski. Bern: Peter Lang, 2013, 69-88.
 - Bacciagaluppi – Collarile 2022<br/>
-Claudio Bacciagaluppi – Luigi Collarile, in Schweizer Jahrbuch zur Musikwissenschaft, Band 39 (2022), in Vorbereitung. 
-- Bacciagaluppi - Collarile - Bouquin 2010<br/>
 Claudio Bacciagaluppi - Luigi Collarile - Annaïck Bouquin, The St Urban Inventory 1661, in: Historical Music Inventories 1500-1600, hrsg. von Claudio Bacciagaluppi, Luigi Collarile, Laurent Pugin und Luca Zoppelli, RISM 2010, online: [http://inventories.rism-ch.org/](http://inventories.rism-ch.org/).
 - Biographia Cisterciensis<br/>
 Biographia Cisterciensis, Version vom 20.8.2011, online: [http://www.zisterzienserlexikon.de](http://www.zisterzienserlexikon.de).

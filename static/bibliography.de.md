@@ -17,7 +17,7 @@ Cyrille Gigandet, Bellelay, histoire d’une ancienne abbaye de Prémontré, in:
 - Haid 1946<br/>
 Kassian Haid, Die Reihe der Äbtissinnen von Rathausen 1245-1945: zum Siebenjahrhundert-Jubiläum des Klosters Rathausen 1245-1945, in: Der Geschichtsfreund 99 (1946), 193-229.
 - Henggeler 1937<br/>
-Rudolf Henggeler, Professbuch der Fürstl. Benediktinerabtei U. L. Frau zu Einsiedeln. Festgabe zum Tausendjährigen Bestand des Klosters. Einsiedeln: Selbstverlag des Stiftes, 1937 (Monasticon Benedictinum Helvetiae, 3), online: [http://klosterarchiv.ch/e-archiv_professbuch_liste.php](http://klosterarchiv.ch/e-archiv_professbuch_liste.php).
+Rudolf Henggeler, Professbuch der Fürstl. Benediktinerabtei U. L. Frau zu Einsiedeln. Festgabe zum Tausendjährigen Bestand des Klosters. Einsiedeln: Selbstverlag des Stiftes, 1937 (Monasticon Benedictinum Helvetiae, 3).
 - Henggeler 1955<br/>
 Rudolf Henggeler, Professbücher der Benediktinerabteien St. Martin in Disentis, St. Vinzenz in Beinwil und U.L. Frau von Mariastein, St. Leodegar und St. Mauritius im Hof zu Luzern, Allerheiligen in Schaffhausen, St. Georg zu Stein am Rhein, Sta. Maria zu Wagenhausen, Hl. Kreuz und St. Johannes Evangelist zu Trub, St. Johann im Thurtal. Zug: E. Kalt-Zehnder, 1955 (Monasticon Benedictinum Helvetiae, 4).
 - HLS<br/>
